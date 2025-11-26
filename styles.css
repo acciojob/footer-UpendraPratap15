@@ -4,9 +4,13 @@ footer {
   padding: 38px 0 0 0;
   font-family: 'Poppins', sans-serif;
 }
-.media-icon{
-	display: flex;
+.media-icons {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;           
+  gap: 12px;                     
 }
+
 .content {
   max-width: 1200px;
   margin: auto;
